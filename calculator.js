@@ -17,11 +17,11 @@ function divide(a, b) {
     return a / b;
 }
 
-// Prompt the user for input and assign values to variables A and B
+
 let A = 2;
 let B = 3;
 
-// Prompt the user for the operator
+
 let operator = "+";
 
 let result;
